@@ -42,7 +42,7 @@
         "gn:id":7838879
     },
     "wof:country":"MP",
-    "wof:geomhash":"89c726f95cca53f28d2381bda029c081",
+    "wof:geomhash":"27e654bcde34463950372806941b66d8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,5 +69,5 @@
     145.78596000000005,
     15.2509
 ],
-  "geometry": {"coordinates":[145.78596000000005,15.2509],"type":"Point"}
+  "geometry": {"coordinates":[145.78596,15.2509],"type":"Point"}
 }
