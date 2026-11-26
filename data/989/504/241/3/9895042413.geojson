@@ -1,0 +1,76 @@
+{
+  "id": 9895042413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.71673,15.19347,145.71673,15.19347",
+    "geom:latitude":15.19347,
+    "geom:longitude":145.71673,
+    "gn:population":898,
+    "iso:country":"MP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645576: name \"I Liyang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645576"
+        },
+        {
+            "citation":"GeoNames populated place 13645576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645576"
+        },
+        {
+            "citation":"GeoNames populated place 13645576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645576"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674803 (Saipan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674803,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645576
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"a1f7d41b0b8374e3b21f35c8c1bf3ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":9895042413,
+            "region_id":85674803
+        }
+    ],
+    "wof:id":9895042413,
+    "wof:lastmodified":1795735237,
+    "wof:name":"I Liyang",
+    "wof:parent_id":85674803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.71673,
+    15.19347,
+    145.71673,
+    15.19347
+],
+  "geometry": {"coordinates":[145.71673,15.19347],"type":"Point"}
+}
