@@ -1,0 +1,75 @@
+{
+  "id": 9895090366,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.84244,17.30968,145.84244,17.30968",
+    "geom:latitude":17.30968,
+    "geom:longitude":145.84244,
+    "iso:country":"MP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645580: name \"Guguan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645580"
+        },
+        {
+            "citation":"GeoNames populated place 13645580: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645580"
+        },
+        {
+            "citation":"GeoNames populated place 13645580: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645580"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674809 (Northern Islands), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674809,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645580
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"59d8302314b6cdf198d9811cf93ff1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":9895090366,
+            "region_id":85674809
+        }
+    ],
+    "wof:id":9895090366,
+    "wof:lastmodified":1795746182,
+    "wof:name":"Guguan",
+    "wof:parent_id":85674809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.84244,
+    17.30968,
+    145.84244,
+    17.30968
+],
+  "geometry": {"coordinates":[145.84244,17.30968],"type":"Point"}
+}

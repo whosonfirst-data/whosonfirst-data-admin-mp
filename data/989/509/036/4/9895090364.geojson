@@ -1,0 +1,75 @@
+{
+  "id": 9895090364,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.05965,16.02095,146.05965,16.02095",
+    "geom:latitude":16.02095,
+    "geom:longitude":146.05965,
+    "iso:country":"MP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645577: name \"Farallon de Medinilla\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645577"
+        },
+        {
+            "citation":"GeoNames populated place 13645577: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645577"
+        },
+        {
+            "citation":"GeoNames populated place 13645577: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645577"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674809 (Northern Islands), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674809,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645577
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"ce9727fac0a7b2fe39fb907ac680fc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":9895090364,
+            "region_id":85674809
+        }
+    ],
+    "wof:id":9895090364,
+    "wof:lastmodified":1795746182,
+    "wof:name":"Farallon de Medinilla",
+    "wof:parent_id":85674809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.05965,
+    16.02095,
+    146.05965,
+    16.02095
+],
+  "geometry": {"coordinates":[146.05965,16.02095],"type":"Point"}
+}
